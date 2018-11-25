@@ -23,6 +23,7 @@
     "linebreak-style": ["error", "unix"],
     "max-len": ["error", { "code": 120 }],
     "no-constant-condition": "warn",
+    "no-unused-expressions": ["error", { "allowTaggedTemplates": true }],
     "no-unused-vars": 0,
     "no-underscore-dangle": 0,
     "quotes": ["error", "backtick", { "allowTemplateLiterals": true }],
